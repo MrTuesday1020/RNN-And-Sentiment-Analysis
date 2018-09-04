@@ -110,8 +110,7 @@ venv.bak/
 dmypy.json
 
 
-# data
-/data
+# generated files
 embeddings.pkl
 /checkpoints
 /tensorboard
