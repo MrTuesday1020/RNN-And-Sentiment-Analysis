@@ -33,7 +33,7 @@ BATCH_SIZE = imp.BATCH_SIZE
 MAX_WORDS_IN_REVIEW = imp.MAX_WORDS_IN_REVIEW  # Maximum length of a review to consider
 EMBEDDING_SIZE = imp.EMBEDDING_SIZE  # Dimensions for each word vector
 
-SAVE_FREQ = 100
+SAVE_FREQ = 1000
 iterations = 100000
 
 checkpoints_dir = "./checkpoints"
